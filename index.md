@@ -17,6 +17,7 @@ The Sensor Overlord is a tool to determine the accuracy of biochemical measureme
 If you have absolutely any questions or comments, please, please reach out to me (Julian)! I would love to chat with you about this project. I'm also applying to PhD programs this cycle ;).
 
 My email: stanley.ju[at]husky[dot]neu[dot]edu
+
 Or, if you'd prefer to contact my PI, email Javier: j.apfeld[at]northeastern[dot]edu
 
 For more information, see our [lab website](http://apfeldlab.strikingly.com).
